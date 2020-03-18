@@ -5,3 +5,7 @@ Code/.vs/CredentialsManager/v16/Server/sqlite3/storage.ide
 Code/.vs/CredentialsManager/v16/Server/sqlite3/storage.ide-shm
 Code/.vs/CredentialsManager/v16/Server/sqlite3/storage.ide-wal
 .vs/CredentialsManager/v16/.suo
+Code/.vs/CredentialsManager/DesignTimeBuild/.dtbcache
+Code/CredentialsManager.Test/obj/Debug/netcoreapp3.1/CredentialsManager.Test.csprojAssemblyReference.cache
+Code/CredentialsManager.WinForms/obj/Debug/CredentialsManager.WinForms.csprojAssemblyReference.cache
+Code/CredentialsManager/obj/Debug/netstandard2.0/CredentialsManager.csprojAssemblyReference.cache
